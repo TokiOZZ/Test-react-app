@@ -1,0 +1,11 @@
+.table {
+	display: flex;
+	justify-content: space-around;
+}
+
+.table__btn {
+	font-size: 30px;
+	min-height: 100px;
+	min-width: 100px;
+	margin: auto 0;
+}
